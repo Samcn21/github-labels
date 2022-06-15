@@ -1,0 +1,87 @@
+[
+    {
+        "name": "ANOTHER REVIEWER REQUIRED",
+        "description": "When another specific reviewer is required, maybe due to more knowledge that the other reviewer has.",
+        "color": "63ffed"
+    },
+    {
+        "name": "APPROVED",
+        "description": "When a PR is approved but still waiting for being merged for any reason",
+        "color": "05ab05"
+    },
+    {
+        "name": "CHANGE REQUEST",
+        "description": "After the code review, the reviewer(s) request to change the code",
+        "color": "ffc02e"
+    },
+    {
+        "name": "CHILD BRANCH",
+        "description": "The PR is not made to a mother branch and not to 3 main branches (develop, test or master)",
+        "color": "c5def5"
+    },
+    {
+        "name": "CODE REVIEW REQUEST",
+        "description": "The PR is newly opened or it has been changed after a change request from the reviewer(s).",
+        "color": "4ff0c0"
+    },
+    {
+        "name": "COMMENT & QUESTION",
+        "description": "When the reviewer(s) have questions or are in doubt that the pull request can be approved.",
+        "color": "6b63ff"
+    },
+    {
+        "name": "DECLINED",
+        "description": "When the pull request is declined. The declined pull request should be closed.",
+        "color": "000000"
+    },
+    {
+        "name": "MERGE CONFLICT",
+        "description": "There is a merge conflict that needs to be resolved in order to proceed with the PR.",
+        "color": "ed2d2d"
+    },
+    {
+        "name": "MOTHER BRANCH",
+        "description": "it's a feature branch that the other branches create a pull request to.",
+        "color": "fef2c0"
+    },
+    {
+        "name": "NOT READY FOR REVIEW",
+        "description": "When the pull request is opened but it is still in progress.",
+        "color": "95c225"
+    },
+    {
+        "name": "READY FOR MERGE",
+        "description": "when a PR is ready for merge (resolved conflict, approved, reviewed etc).",
+        "color": "00db5f"
+    },
+    {
+        "name": "SCREENSHOTS REQUIRED",
+        "description": "to show how the feature works or / and how it looks on multiple breakpoints.",
+        "color": "fef2c0"
+    },
+    {
+        "name": "VIDEO CAPTURING REQUIRED",
+        "description": "to show how the feature works or / and how it looks on multiple breakpoints.",
+        "color": "af3c9f"
+    },
+    {
+        "name": "WIP",
+        "description": "Work in progress",
+        "color": "00ff00"
+    },
+    {
+        "name": "WRONG BRANCH NAME",
+        "description": "When the branch name is not correct!",
+        "color": "b60205"
+    },
+    {
+        "name": "WRONG PULL REQUEST",
+        "description": "When the pull request is not pointing to the correct branch",
+        "color": "ff6700"
+    },
+    {
+        "name": "WRONG TITLE",
+        "description": "When the pull request has a wrong title that does not match the naming convention!",
+        "color": "a835a3"
+    }
+]
