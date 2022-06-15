@@ -9,7 +9,7 @@
 
 ## Import Labels
 1- go to the repo's label page that you want to import the labels to (see images folder import-1.png)
-
+ 
 2- replace the label array in the import.js file with the json data that you obtained in the export step
 
 3- open the browser inspect and copy the import.js file in the console (see images folder import-2.png)
