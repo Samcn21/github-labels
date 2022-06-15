@@ -12,9 +12,9 @@
 
 2- replace the label array in the import.js file with the json data that you obtained in the export step
 
-2- open the browser inspect and copy the import.js file in the console (see images folder import-2.png)
+3- open the browser inspect and copy the import.js file in the console (see images folder import-2.png)
 
-3- execute the code and all the labels will be imported (see images folder import-3.png)
+4- execute the code and all the labels will be imported (see images folder import-3.png)
 
 source: https://gist.github.com/MoOx/93c2853fee760f42d97f
 import file source: https://gist.github.com/jamesperrin/d811fadea2bd199ecf98195d96513afd
