@@ -2,7 +2,7 @@
 
 ## Export Labels
 1- go to the repo's label page that you want to export the labels from (see images folder export-1.png)
-
+ 
 2- open the browser inspect and copy the export.js file in the console 
 
 3- execute the code and a json file will be generated that contains all the labels (see images folder export-2.png)
