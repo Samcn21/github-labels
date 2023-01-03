@@ -1,4 +1,4 @@
-# HOW TO USE
+# HOW TO USE. 
 
 ## Export Labels
 1- go to the repo's label page that you want to export the labels from (see images folder export-1.png)
